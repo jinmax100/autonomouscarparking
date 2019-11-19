@@ -12,9 +12,17 @@
 
 ![Model Diagram](https://user-images.githubusercontent.com/51187747/69150872-a89dad00-0b01-11ea-95a6-319fb780ab63.jpg)
 
+* Contains X,Y,Z motors
+* X for left right movement
+* Y for top down movement
+* Z for front back movement
+
 
 # Interactive Android Application for Reservation Parking Scheme 
 <img src="https://user-images.githubusercontent.com/51187747/69150997-e569a400-0b01-11ea-95dd-734e2dfdf17d.png" width="400" height="630">    <img src="https://user-images.githubusercontent.com/51187747/69152895-59597b80-0b05-11ea-9d24-964de936a14d.png" width="400" height="630">
+
+* Coverpage basically displays the homescreen
+* Action page depicts the GUI to input credentials of the user that eventually gets registered into database
 
 
 # Final circuit diagram
