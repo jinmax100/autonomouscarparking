@@ -10,5 +10,5 @@
 
 
 # Interactive Android Application for Reservation Parking Scheme 
-<img src="https://user-images.githubusercontent.com/51187747/69150997-e569a400-0b01-11ea-95dd-734e2dfdf17d.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/51187747/69150997-e569a400-0b01-11ea-95dd-734e2dfdf17d.png" width="400" height="630">     <img src="https://user-images.githubusercontent.com/51187747/69152895-59597b80-0b05-11ea-9d24-964de936a14d.png" width="400" height="630">
 
