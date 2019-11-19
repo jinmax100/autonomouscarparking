@@ -28,3 +28,8 @@
 # Final circuit diagram
 ![circuit_final](https://user-images.githubusercontent.com/51187747/69153403-44c9b300-0b06-11ea-9011-534b818f62e3.jpg)
 
+* Only depicts general connection
+* Provides information about what components are used
+* Check connection details from the codes
+
+
