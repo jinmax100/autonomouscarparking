@@ -7,7 +7,7 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 
 ## Working Mechanism
 * [Arduino Mega 2560](https://store.arduino.cc/products/arduino-mega-2560-rev3) as a main control unit running mega_code.ino
-* [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3) running uno_code.ino houses [Arduino Ethernet Shield](https://store.arduino.cc/products/arduino-ethernet-shield-2) which shares Parking Lot Utilization Status. 
+* [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3) running uno_code.ino houses [Arduino Ethernet Shield](https://store.arduino.cc/products/arduino-ethernet-shield-2) which shares occupancy of slots over network. 
 * Series of X,Y,Z [Stepper Motors](https://www.elprocus.com/stepper-motor-types-advantages-applications/) to provide 3D Structual Movement.
 * Control Module contains [Matrix Keypad](https://www.electroduino.com/4x4-keypad-module/) allowing user to register Code Sequences, and [16x2 LCD Panel](https://www.electronicsforu.com/technology-trends/learn-electronics/16x2-lcd-pinout-diagram) to display relevant outputs.
 * [Limit Switches](https://electricalgang.com/working-principle-of-limit-switch/) used for manual control of the structure during emergency and power cuts.
