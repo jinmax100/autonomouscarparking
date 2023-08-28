@@ -24,6 +24,9 @@
 ## Mechanical Structure
 ![IMG_0642](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/73793dcb-9e29-4c8e-8d56-71f65fde8193)
 
+## Control Module
+![Controlbox](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/372c2b7c-2cf3-4d32-96e6-d35329148788)
+
 
 * Contains X,Y,Z stepper motors for respective 3D movement
 * Control Switches facilitates Manual Movement of the Structure during emergency
