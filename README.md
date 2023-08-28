@@ -27,7 +27,7 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 ![Controlbox](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/372c2b7c-2cf3-4d32-96e6-d35329148788)
 
 - Contains X,Y,Z stepper motors for respective 3D movement
-- Control Switches allows Manual Movement of the Structure during emergency
+- Limit Switches allow Manual Movement of the Structure during emergency
 - A Control Module is available for the user to input unique sequence of code for security measure. Onboard Indicator facilitates information about vacant slots.
 - The Slot Status is fed to/by Arduino Ethernet Shield everytime Park/Unpark Operation happens
 
