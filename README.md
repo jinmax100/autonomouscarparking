@@ -39,3 +39,6 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 - Once reserved the slot indicator changes to RED preventing other users from booking it
 - When the vehicle is retrieved from any of the slots, the slot color switches to Green automatically, thereby allowing other users to reserve it.
 - User Information which comprises of Name, Vehicle Number and Contact Number is logged in the database
+
+# LICENSE
+[License Terms](https://github.com/jinmax100/multilayeredcarparking/blob/master/LICENSE)
