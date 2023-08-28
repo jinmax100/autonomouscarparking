@@ -29,8 +29,8 @@
 
 
 * Contains X,Y,Z stepper motors for respective 3D movement
-* Control Switches facilitates Manual Movement of the Structure during emergency
-* A Control Module is available for the user to input unique sequence of code for security measure
+* Control Switches allows Manual Movement of the Structure during emergency
+* A Control Module is available for the user to input unique sequence of code for security measure. Onboard Indicator facilitates information about vacant slots.
 * The Slot Status is fed to/by Arduino Ethernet Shield everytime Park/Unpark Operation happens
 
 
