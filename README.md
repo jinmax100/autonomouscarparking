@@ -8,9 +8,22 @@
 * Arduino Ethernet Shield used for network connection
 * Xampp Server used for localhost
 
+# Circuit Design
+![circuit_final](https://user-images.githubusercontent.com/51187747/69153403-44c9b300-0b06-11ea-9011-534b818f62e3.jpg)
+
+* Only depicts general connection
+* Provides information about what components are used
+* Check connection details from the codes
+
+
 # A Complete Structure
 
+## Structure Design
 ![Model Diagram](https://user-images.githubusercontent.com/51187747/69150872-a89dad00-0b01-11ea-95a6-319fb780ab63.jpg)
+
+## Mechanical Structure
+![IMG_0642](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/73793dcb-9e29-4c8e-8d56-71f65fde8193)
+
 
 * Contains X,Y,Z motors
 * X for left right movement
@@ -23,13 +36,3 @@
 
 * Coverpage basically displays the homescreen
 * Action page depicts the GUI to input credentials of the user that eventually gets registered into database
-
-
-# Final circuit diagram
-![circuit_final](https://user-images.githubusercontent.com/51187747/69153403-44c9b300-0b06-11ea-9011-534b818f62e3.jpg)
-
-* Only depicts general connection
-* Provides information about what components are used
-* Check connection details from the codes
-
-
