@@ -35,7 +35,7 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 - When the vehicle is retrieved from any of the slots, the slot color switches to Green automatically, thereby allowing other users to reserve it.
 - User Information which comprises of Name, Vehicle Number and Contact Number is logged in the database
 
-# AUTHORS
+# Authors
 * [Jeevan Sapkota](https://github.com/jinmax100) (Project Lead)
 * Dipesh Dhamala (Project Memmber)
 * Kailash Shrestha (Project Member)
