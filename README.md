@@ -9,7 +9,7 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 * [Arduino Mega 2560](https://store.arduino.cc/products/arduino-mega-2560-rev3) as a main control unit running mega_code.ino, and houses [Arduino Ethernet Shield](https://store.arduino.cc/products/arduino-ethernet-shield-2) which shares occupancy of slots over network.
 * [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3) running uno_code.ino communicates with Arduino Mega via I2C, and provides step signals to motor drivers.
 * Series of X,Y,Z [Stepper Motors](https://www.elprocus.com/stepper-motor-types-advantages-applications/) to provide 3D Structual Movement.
-* Control Module contains [Matrix Keypad](https://www.electroduino.com/4x4-keypad-module/) allowing user to register Code Sequences, and [16x2 LCD Panel](https://www.electronicsforu.com/technology-trends/learn-electronics/16x2-lcd-pinout-diagram) to display relevant outputs.
+* User Interface Panel contains [Matrix Keypad](https://www.electroduino.com/4x4-keypad-module/) allowing user to register Code Sequences, and [16x2 LCD Panel](https://www.electronicsforu.com/technology-trends/learn-electronics/16x2-lcd-pinout-diagram) to display relevant outputs.
 * [Limit Switches](https://electricalgang.com/working-principle-of-limit-switch/) used for manual control of the structure during emergency and power cuts.
 
 # A Complete Structure
@@ -22,14 +22,9 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 
 ![IMG_0642](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/73793dcb-9e29-4c8e-8d56-71f65fde8193)
 
-## Control Module
+## User Interface Panel
 
 ![Controlbox](https://github.com/jinmax100/multilayeredcarparking/assets/51187747/372c2b7c-2cf3-4d32-96e6-d35329148788)
-
-- Contains X,Y,Z stepper motors for respective 3D movement
-- Limit Switches allow Manual Movement of the Structure during emergency
-- A Control Module is available for the user to input unique sequence of code for security measure. Onboard Indicator facilitates information about vacant slots.
-- The Slot Status is fed to/by Arduino Ethernet Shield everytime Park/Unpark Operation happens
 
 # Android Application for Reservation Feature
 
