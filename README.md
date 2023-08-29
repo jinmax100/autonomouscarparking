@@ -13,7 +13,6 @@ Improvised version of [Smart Car Parking Project](https://github.com/jinmax100/s
 * [Limit Switches](https://electricalgang.com/working-principle-of-limit-switch/) used for manual control of the structure during emergency and power cuts.
 
 # A Complete Structure
-
 ## Structure Design
 
 ![Model Diagram](https://user-images.githubusercontent.com/51187747/69150872-a89dad00-0b01-11ea-95a6-319fb780ab63.jpg)
