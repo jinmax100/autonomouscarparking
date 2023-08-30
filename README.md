@@ -36,8 +36,8 @@ Improvised version of [Smart Car Parking Project](https://github.com/sapkotajeev
 
 # Authors
 * [Jeevan Sapkota](https://github.com/jinmax100) (Project Lead)
+* [Kailash Shrestha](https://github.com/kailashstha) (Project Member)
 * Dipesh Dhamala (Project Memmber)
-* Kailash Shrestha (Project Member)
 * Jyoti KC (Project Member)
 
 # LICENSE
